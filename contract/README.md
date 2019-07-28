@@ -1,7 +1,7 @@
 ## Setup instructions
 
 1. Install [ganache](https://www.trufflesuite.com/ganache).
-2. Install (nodejs)(https://nodejs.org/en/).
+2. Install [nodejs](https://nodejs.org/en/).
 3. Clone code and run **npm install --save-dev** inside this folder.
 
 ## Running Instructions
